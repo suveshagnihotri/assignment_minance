@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">minance_assignment</string>
+    <string name="facebook">Facebook</string>
+    <string name="pintrest">Pintrest</string>
+    <string name="twitter">Twitter</string>
+    <string name="profile">Profile</string>
+    <string name="linkdin">Linkdin</string>
+    <string name="change_passward">Change Passward</string>
+    
+    <!-- activity_list-->
+    <string name="likes">Likes</string>
 </resources>
